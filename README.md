@@ -29,7 +29,7 @@ I'm a **Computer Engineering student** at the University of Bologna, passionate 
 ### 📌 Featured Projects  
  **[FPGA for Signal Detection](https://github.com/FabioC-alt/FPGAFermiLab)** – Working with Red Pitaya for signal processing  
 📡 **[Crowdsensing for Smart Cities](https://github.com/FabioC-alt/AnalisiTrafficoBologna)** – Master's thesis project  
-🤖 **[SpaceNetwork Quiz](https://github.com/FabioC-alt/SNQuiz)** – My app to exercise yourself with the answer from the exam Space Network at University of Bologna
+🤖 **[SpaceNetwork Quiz](https://github.com/FabioC-alt/SNQuiz)** – My app to exercise yourself with the answer from the exam Space Network at University of Bologna  
 🖥️ **[Hyprland & Linux Customization](https://github.com/FabioC-alt/scripts)** – My personal Linux setup  
 
 ---
