@@ -1,7 +1,6 @@
 ### Hi, I'm Fabio A. Ciraci 
 
-I'm a **Computer Engineering student** at the University of Bologna, passionate about **FPGA programming, embedded systems, software development, and data analysis**. Currently, I'm working on my **master's thesis** on **crowdsensing in smart cities** and exploring ways to make urban areas more sustainable.  
-
+I'm a **Computer Engineering student** at the University of Bologna, passionate about **FPGA programming, embedded systems, software development, and data analysis**. Currently, I'm working on my **master's thesis** on **crowdsensing in smart cities**.
 ---
 
 ###  What I'm Working On  
