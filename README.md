@@ -4,9 +4,8 @@ I'm a **Computer Engineering student** at the University of Bologna, passionate 
 ---
 
 ###  What I'm Working On  
-- **🖥️ FPGA & Embedded Systems** – Projects with Red Pitaya, PYNQ, and Vivado  
 - **📡 Signal Processing** – Using FFT, PSD, and digital signal analysis  
-- **  Data Analysis & Smart Cities** – Studying crowdsensing and sustainability  
+- **  Data Analysis** – Studying crowdsensing and sustainability  
 - **💻 Software Development** – React, Next.js, Python, and Linux customization  
 - ** AI & Automation** – Experimenting with AI-powered applications  
 
@@ -31,6 +30,7 @@ I'm a **Computer Engineering student** at the University of Bologna, passionate 
 📡 **[Crowdsensing for Smart Cities](https://github.com/FabioC-alt/AnalisiTrafficoBologna)** – Master's thesis project  
 🤖 **[SpaceNetwork Quiz](https://github.com/FabioC-alt/SNQuiz)** – My app to exercise yourself with the questions from the exam Space Network at University of Bologna  
 🖥️ **[Hyprland & Linux Customization](https://github.com/FabioC-alt/scripts)** – My personal Linux setup  
+ **[Spotify Wrapped Monthly Delivered](https://github.com/FabioC-alt/SpotifyWrappedMonthly)** - Personal Project on a Monthly delivered Spotify Wrapped
 
 ---
 
