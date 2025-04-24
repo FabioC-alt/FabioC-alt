@@ -27,10 +27,15 @@ I'm a **Computer Engineering student** at the University of Bologna, passionate 
 
 ### 📌 Featured Projects  
  **[FPGA for Signal Detection](https://github.com/FabioC-alt/FPGAFermiLab)** – Working with Red Pitaya for signal processing  
+
 📡 **[Multi-Cluster Management Thesis](https://github.com/FabioC-alt/masterThesis)** – Master's thesis project  
+
 🤖 **[SpaceNetwork Quiz](https://github.com/FabioC-alt/SNQuiz)** – My app to exercise yourself with the questions from the exam Space Network at University of Bologna  
+
 🖥️ **[Hyprland & Linux Customization](https://github.com/FabioC-alt/scripts)** – My personal Linux setup  
- **[Spotify Wrapped Monthly Delivered](https://github.com/FabioC-alt/SpotifyWrappedMonthly)** - Personal Project on a Monthly delivered Spotify Wrapped
+
+ **[Spotify Wrapped Monthly Delivered](https://github.com/FabioC-alt/SpotifyWrappedMonthly)** - Personal Project on a Monthly delivered Spotify Wrapped  
+
  **[Torch Research Notes](https://github.com/FabioC-alt/torchNotes)** - Research notes for my work as a researcher @ UniBo
 ---
 
